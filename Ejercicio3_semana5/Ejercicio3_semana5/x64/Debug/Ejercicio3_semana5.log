@@ -1,0 +1,66 @@
+﻿  Ejercicio3_semana5.cpp
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(73,48): warning C4129: '_': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(74,48): warning C4129: '.': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(84,50): warning C4129: 'o': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(99,50): warning C4129: '(': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(100,50): warning C4129: 'o': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(108,46): warning C4129: ' ': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(113,49): warning C4129: '_': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(114,49): warning C4129: '_': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(115,49): warning C4129: '_': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(115,49): warning C4129: ' ': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(134,50): warning C4129: '_': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(135,50): warning C4129: '.': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(145,53): warning C4129: 'o': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(160,53): warning C4129: '(': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(161,53): warning C4129: 'o': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(168,51): warning C4129: ' ': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(173,53): warning C4129: '_': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(174,53): warning C4129: '_': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(175,53): warning C4129: '_': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Avion.h(175,53): warning C4129: ' ': secuencia de escape de carácter no reconocida
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+C:\Users\PC\Desktop\Ejercicio3_semana5\Ejercicio3_semana5\Ejercicio3_semana5.cpp(18,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/Ejercicio3_semana5.cpp")
+  
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Ejercicio3_semana5.vcxproj -> C:\Users\PC\Desktop\Ejercicio3_semana5\x64\Debug\Ejercicio3_semana5.exe
